@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">BancoDeDados</string>
+    <string name="btnValue1">Entrar</string>
+    <string name="btnValue2">Cadastrar</string>
 </resources>
